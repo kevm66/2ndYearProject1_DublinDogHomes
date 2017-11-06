@@ -1,4 +1,4 @@
-# 2ndYearProject_DublinDogHomes
+# 2ndYearProject1_DublinDogHomes
 2nd Year, Project 1:
 - Dublin Dog Homes Web Application
 
