@@ -1,0 +1,5 @@
+#find:hover,
+#register:hover{
+    cursor: pointer;
+    color: blue;
+}

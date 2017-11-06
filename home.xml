@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href=homes.xsl "?>
+<homes>
+<home>
+    <name>David Kelly</name>
+    <description>I really like dogs</description>
+    <homedesc>I have a small home</homedesc>
+    <location>Dublin</location>
+    <smalldogs>on</smalldogs>
+    <largedogs/>
+</home>
+<home>
+    <name>Laura</name>
+    <description>rich af</description>
+    <homedesc>mansion</homedesc>
+    <location>poshville</location>
+    <smalldogs>on</smalldogs>
+    <largedogs/>
+</home>
+<home>
+    <name>Kevin</name>
+    <description>minion</description>
+    <homedesc>evil lab</homedesc>
+    <location>gru's house </location>
+    <smalldogs/>
+    <largedogs>on</largedogs>
+</home>
+<home>
+    <name>sam</name>
+    <description>cute</description>
+    <homedesc>dog pad</homedesc>
+    <location>NCI</location>
+    <smalldogs>on</smalldogs>
+    <largedogs>on</largedogs>
+</home>
+<home><name>Jim</name><description>Caring</description><homedesc>Massive</homedesc><location>Dundrum</location><smalldogs/><largedogs>on</largedogs></home><home><name>bob</name><description>minion</description><homedesc>evil lab</homedesc><location>gru's house </location><smalldogs/><largedogs>on</largedogs></home><home><name>David Kelly</name><description>I love loads of dogs</description><homedesc>I have an apartment</homedesc><location>Dublin</location><smalldogs/><largedogs>on</largedogs></home><home><name>David Kelly</name><description>I love loads of dogs</description><homedesc>I have an apartment</homedesc><location>Dublin</location><smalldogs/><largedogs>on</largedogs></home></homes>
