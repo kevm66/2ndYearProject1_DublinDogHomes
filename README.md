@@ -1,9 +1,6 @@
-# 2ndYearProject1_DublinDogHomes
-2nd Year, Project 1:
-- Dublin Dog Homes Web Application
-
+# 2nd Year Project 1: Dublin Dog Homes
 Description:
-- Dublin Dog Homes allows users to find a home for a dog
+- Dublin Dog Homes is a web application that allows users to find a home for a dog
 
 Instructions to view:
 - Visit: https://wadproject-lauranesbitt.c9users.io/
